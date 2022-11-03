@@ -1,6 +1,6 @@
 # SONGs: Self-Organizing Neural Graphs
 
-![song](assets\song.png)
+![song](assets/song.png)
 
 The official implementation of the SONG model
 described in [the paper](https://arxiv.org/abs/2107.13214).
